@@ -1,19 +1,18 @@
-﻿# [RISC-V](https://github.com/mcuyun/RISC-V) 
+﻿# [RISC-V-debug](https://github.com/mcuyun/RISC-V-debug) 
 
 [![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
 
+#### [关于悠云](https://github.com/mcuyun)可访问 www.mcuyun.com
+
+## [描述](https://github.com/mcuyun/RISC-V-debug/wiki) 
+
+### [组成](mcuyun/)
+
+#### [openocd](openocd/)
+
 
 ---
 
-## [RISC-V](https://github.com/riscv) 
 
-相关资源
-
-#### openocd
-
-
----
-
-###  www.mcuyun.com  
+###  [悠云，为嵌入式](http://www.mcuyun.com)   
 ###  qitas@qitas.cn
-###  2018-12-2
