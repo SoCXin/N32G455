@@ -1,0 +1,17 @@
+{
+    "name":"N32G455",
+    "Core":"Cortex M4",
+    "Vendor":"nationstech",
+    "description":"Cortex M4 N32G455 MCU",
+    "keywords": [
+        "144MHz","180DMIPS",
+        "AES","DES","3DES","SM1","SM3","SM4","SM7","MD5","SHA1","SHA224","SHA256","CRC","TRANG",
+        "USART","UART","ADC","DAC","SDIO","CAN","USB","I2S","SPI","OPAMP","COMP","TSC",
+        "LQFP128","LQFP100","LQFP80","LQFP64",
+        "-40℃","105℃",
+        "3.6V","1.8V"
+    ],
+    "url":"https://github.com/SoCXin/N32G455",
+    "homepage": "https://www.nationstech.com/N32G455/",
+    "version":"1.0.0"
+}
